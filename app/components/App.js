@@ -7,8 +7,8 @@ var Route = ReactRouter.Route;
 var Switch = ReactRouter.Switch;
 
 var Nav = require('./Nav');
-var Home = require('./Home')
-var Battle = require('./Battle')
+var Home = require('./Home');
+var Battle = require('./Battle');
 
 class App extends React.Component {
     render() {
